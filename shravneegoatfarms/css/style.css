@@ -253,7 +253,7 @@ a:focus {
 }
 
 .how_section .how_container .box:hover .img-box {
-  background-color: #30ae69;
+  background-color: transparent;
 }
 
 .how_section .how_container .box:hover .img-box svg {
